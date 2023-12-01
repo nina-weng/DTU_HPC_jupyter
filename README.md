@@ -1,4 +1,4 @@
-
+# How to use jupyter notebook with DTU HPC clusters
 ### Short Intro
 This note is for people who want to use jupyter notebook with DTU HPC, especially for using GPU resources on notebooks. The method we provide here is using VSCode tunnels. This note is mainly written down by me, with plenty help from Eike Petersen, who set up the procedure initially. 
 
